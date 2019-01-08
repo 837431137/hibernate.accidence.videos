@@ -1,0 +1,8 @@
+07_hibernate入门（三）.mp4 filter=lfs diff=lfs merge=lfs -text
+11_hibernate的api（configuration和sessionFactory对象）.mp4 filter=lfs diff=lfs merge=lfs -text
+07_实现类的三种状态和saveOrUpdate方法.mp4 filter=lfs diff=lfs merge=lfs -text
+03_一对多操作（映射配置一）.mp4 filter=lfs diff=lfs merge=lfs -text
+08_一对多操作（inverse属性）.mp4 filter=lfs diff=lfs merge=lfs -text
+10_多对多操作（映射配置二）.mp4 filter=lfs diff=lfs merge=lfs -text
+11_QBC查询（统计和离线查询）.mp4 filter=lfs diff=lfs merge=lfs -text
+16-hibernate检索策略操作.mp4 filter=lfs diff=lfs merge=lfs -text
